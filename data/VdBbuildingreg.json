@@ -1,1 +1,93 @@
-
+{
+  "title": "Règlement de construction - Commune de Bagnes",
+  "sections": [
+    {
+      "title": "1. DISPOSITIONS GENERALES",
+      "articles": [
+        {
+          "number": "art. 1",
+          "title": "BUT",
+          "content": [
+            "Coordonner les activités d’aménagement du territoire",
+            "Utilisation appropriée du sol",
+            "Qualité du milieu bâti et de son environnement",
+            "Protection des valeurs historiques et naturelles",
+            "Exécution conforme des bâtiments",
+            "Utilisation rationnelle des moyens publics"
+          ]
+        },
+        {
+          "number": "art. 2",
+          "title": "BASES LEGALES",
+          "content": [
+            "Basées sur prescriptions cantonales et lois fédérales"
+          ]
+        },
+        {
+          "number": "art. 3",
+          "title": "ORGANE RESPONSABLE",
+          "content": [
+            "Conseil municipal responsable des plans et règlements nécessaires"
+          ]
+        },
+        {
+          "number": "art. 4",
+          "title": "RAYON D’APPLICATION",
+          "content": [
+            "Règlement applicable à toute la Commune"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. PROCEDURE",
+      "subsections": [
+        {
+          "title": "2.1 AUTORISATIONS A REQUERIR",
+          "articles": [
+            {
+              "number": "art. 5",
+              "title": "CONSTRUCTIONS SOUMISES A AUTORISATION",
+              "content": [
+                "Constructions, transformations, démolitions nécessitent autorisation"
+              ]
+            },
+            {
+              "number": "art. 6",
+              "title": "MODIFICATIONS",
+              "content": [
+                "Modifications de constructions autorisées requièrent approbation"
+              ]
+            },
+            {
+              "number": "art. 7",
+              "title": "PROJETS NON SOUMIS A AUTORISATION",
+              "content": [
+                "Travaux ordinaires, petites installations de jardin"
+              ]
+            },
+            {
+              "number": "art. 8",
+              "title": "AUTORISATIONS SPECIALES",
+              "content": [
+                "Procédures spéciales pour certains projets publics ou infrastructures"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "2.2 FORMULATION DE LA DEMANDE",
+          "articles": [
+            {
+              "number": "art. 9",
+              "title": "DEMANDE DE RENSEIGNEMENTS",
+              "content": [
+                "Possibilité de demander des renseignements préalables"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
